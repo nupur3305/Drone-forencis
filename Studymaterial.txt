@@ -1,1 +1,63 @@
 https://drive.google.com/drive/folders/1j-B5i3r-lelni05Q25FEdTpXn-d8Rfy3
+
+
+
+Provided on 11/05/26
+Link to DAT files (downloaded from VTO Labs): https://drive.google.com/drive/folders/1ZZMzREdlSSn3NkhLxyu2H-_ryme0EgFT?usp=drive_link
+Link to research Papers (See DROP- Drone Open Source Parser): https://drive.google.com/drive/folders/1pshDFRb6gxu-3kvBxbqyMRxZtaHqHKaT?usp=drive_link
+Link to DatCon: https://datfile.net/DatCon/intro.html
+Lecture Material will be added to: https://drive.google.com/drive/folders/1j-B5i3r-lelni05Q25FEdTpXn-d8Rfy3?usp=drive_link
+
+These resources are provided to help you prepare for the next session and conduct R&D based on the insights discussed in the previous class.
+
+
+
+
+(16-05-2026, Saturday), 
+online session on *“UAV Trajectory Prediction”* as part of the _Summer Internship 2026_ 
+
+_Speaker:_ *Mrs. Kanika Sharma*
+_Designation:_ *AI Product Research Lead, POSSPOLE, Bengaluru*
+
+_Session Topic:_ *UAV Trajectory Prediction*
+
+*Topics to be Covered:*
+• Data Acquisition
+• Data Analysis and Pre-processing
+• Feature Selection
+• Model Selection and Training
+• Error Analysis
+• Optimal Model Selection
+
+*Time:* 11:00 AM
+
+Link of the session will be provided tomorrow. 
+Link to 16-05-26 lecture material and data files- https://drive.google.com/drive/folders/1zeQLb40waKqJE91egA4dYEsFP3V9u0aa?usp=sharing
+
+
+Online sessions:
+
+1. Tuesday (19-05-2026):
+Topic- "UAV Data Decoding and Decryption" (Session 1) 
+Time- 11:00 AM
+Speaker- Mr. Mohammed Saqlain
+
+2. Wednesday (20-05-2026):
+Topic- "UAV Trajectory Prediction" (Session 2) 
+Time- 11:00 AM
+Speaker- Mrs. Kanika Sharma
+
+Offline session:
+
+1. Friday (22-05-2026):
+
+Topic- "Obfuscation and Deobfuscation" (Session 1)
+Time- 11:00 AM
+Speakers- Ms. Muskan Rawat & Ms. Rashika Gupta (MTech Scholars, Engineering College Ajmer)
+
+
+
+
+
+
+All students are advised to attend the session on time and actively participate.
